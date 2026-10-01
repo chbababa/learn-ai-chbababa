@@ -6,7 +6,11 @@
 ## 踩坑全过程
 ### 豆包听不懂人话的麻烦
 一开始我反复输错命令，一会多空格，一会符号不对，折腾很久才成功把 Python 环境验证完成。
-![我调试豆包的截图](
+
+### 教豆包听懂人话的过程
+![我调试豆包的截图](https://github.com/user-attachments/assets/5723a6db-ee68-43df-8776-1f1e2f7604d6)
+
+### 学习Markdown的过程
 学习 Markdown 的参考网站：[Markdown Guide](https://www.markdownguide.org/)
 
 ### 简单代码片段
